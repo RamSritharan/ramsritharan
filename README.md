@@ -6,7 +6,7 @@ I am currently an Associate Full-Stack Engineer at Manulife Canada. My tech-stac
 
 I am currently working on a NodeJS project which provides a social media application for Sports enthusiasts. I will be using Authentication, MongoDB, NestJS, and React/Redux JS. I am also continuously practicing and expanding on Data Structures and Algorithms. 
 
-Please as me if you have any questions on  NodeJS, C#/.NET, and ReactJS!
+Please as me if you have any questions on  NodeJS, Java, and ReactJS!
 
 You can reach me at ramkishan1795@gmail.com
 
