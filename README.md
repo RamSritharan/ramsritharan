@@ -2,7 +2,7 @@
 
 Welcome to my respository!  
 
-I am currently an Associate Full-Stack Engineer at Manulife Canada. My tech-stack includes TypeScript, Java, ReactJS, NextJS, MongoDB, AWS S3, AWS DynamoDB, PostgresSQL, Kubernetes. 
+I am currently an Software Engineer at Manulife Canada. My tech-stack includes TypeScript, Java, ReactJS, NextJS, MongoDB, AWS S3/DynamoDB, PostgresSQL, Kubernetes. 
 
 Please as me if you have any questions on  NodeJS, Java, and ReactJS!
 
