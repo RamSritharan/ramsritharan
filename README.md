@@ -2,9 +2,7 @@
 
 Welcome to my respository!  
 
-I am currently an Software Engineer at Manulife Canada. My tech-stack includes TypeScript, Java, ReactJS, NextJS, MongoDB, AWS S3/DynamoDB, PostgresSQL, Kubernetes. 
-
-Please as me if you have any questions on  NodeJS, Java, and ReactJS!
+I am currently an Software Engineer at Manulife Canada. My tech-stack includes TypeScript/NodeJS, Python, Golang, MongoDB, AWS S3/DynamoDB, PostgresSQL, Kubernetes. 
 
 You can reach me at ramkishan1795@gmail.com
 
